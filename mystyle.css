@@ -1,0 +1,30 @@
+h1 {background-color:DodgerBlue; 
+color:white; 
+border:2px solid black; 
+font-family: "papyrus", Fantasy;
+text-align:center;
+}
+h2 {background-color:DodgerBlue; 
+color:white; 
+border:2px solid black; 
+font-family: "papyrus", Fantasy;
+text-align:center;
+}
+p {background-color:black; 
+color:white; 
+border:2px solid DodgerBlue; 
+font-family: "papyrus", Fantasy;
+text-align:center;
+}
+body {
+  background-image: url('brush_line.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
